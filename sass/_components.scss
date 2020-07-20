@@ -539,6 +539,7 @@
   );
   overflow: hidden;
   cursor: pointer;
+  position: relative;
 
   & > * {
     display: inline-block;
